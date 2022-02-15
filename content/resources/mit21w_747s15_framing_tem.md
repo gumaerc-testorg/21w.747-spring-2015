@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains the information regarding framing template.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-747-rhetoric-spring-2015/54de996b70d1503844e66e3218807af9_MIT21W_747S15_Framing_Tem.pdf
+file: /media/courses/21w-747-rhetoric-spring-2015/54de996b70d1503844e66e3218807af9_MIT21W_747S15_Framing_Tem.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Framing
+parent_type: CourseSection
 resourcetype: Document
 title: MIT21W_747S15_Framing_Tem.pdf
 uid: 54de996b-70d1-5038-44e6-6e3218807af9

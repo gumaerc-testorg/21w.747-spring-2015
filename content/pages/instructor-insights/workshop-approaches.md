@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: f97971ba-34d6-6075-4089-d485b31b5172
 title: Workshop Approaches
 uid: f97ff77f-a72f-8b52-c68e-ac590ce34b94

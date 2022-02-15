@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 912ec8f5-8dbf-31bf-6b1b-b754b51bc1de
 ---
@@ -25,7 +28,7 @@ Hints for Writing Effective Essays
 *   Do not universalize claims about audience: e.g., do not attribute a single reaction to "men," "women," "whites," "minorities," "young and old," or other categories of very disparate people.
 *   Do not follow the structure of the text you are analyzing. That organization was devised for that text & its purposes, not for _your_ essay and _your_ purposes.
     *   Avoid "Dr. King creates his ethos in many ways. In the first paragraph, he…. In the second paragraph he…."
-    *   Instead, do analysis: e.g., "Dr. King creates his ethos by references to Biblical figures, by displaying his immense learning, and by writing in a disappointed tone throughout. For example, he refers to theologians Reinhold Niebuhr (par. 14) and Martin Buber (par. 16). These allusions to modern religious leaders remind of us of his earlier references to Old Testament prophets and to the New Testament's Saint Paul (par. 3) and show us that his learning includes not only the Bible but major 20th century religious thinkers as well.
+    *   Instead, do analysis: e.g., "Dr. King creates his ethos by references to Biblical figures, by displaying his immense learning, and by writing in a disappointed tone throughout. For example, he refers to theologians Reinhold Niebuhr (par. 14) and Martin Buber (par. 16). These allusions to modern religious leaders remind of us of his earlier references to Old Testament prophets and to the New Testament's Saint Paul (par. 3) and show us that his learning includes not only the Bible but major 20{{< sup "th" >}} century religious thinkers as well.
     *   Note: This sample paragraph does Not follow the order of King's "Letter"—Saint Paul (par. 3) is not mentioned until well after Niebuhr and Buber (who showed up in King's pars. 14 & 16).
 *   Do not try so hard to sound academic that you make the prose boring. Make your style interesting with sentence variety, an occasional image or flash of vivid language of your own, etc.
 *   Avoid making it a laundry list of the occurrences of a unit of analysis (e.g., not "Dr. King uses 72 metaphors. The first metaphor is …. The second metaphor is …")
@@ -33,7 +36,7 @@ Hints for Writing Effective Essays
         *   "Dr. King's 72 metaphors fall into three categories—clichés, comparisons with modern technology, and images of dark and light."
         *   or "Dr. King's 72 metaphors perform one of two functions—either they create an emotional appeal or they make a startling comparison."
 *   And you should follow the classification with analysis—for example,
-    *   Example: When he says that other countries are proceeding with "jet-like speed" while America is going at a "horse-and-buggy pace" (par. 14), King's attempts to puncture white Americans' pride in our technological superiority. Associating countries that many Americans would have thought of as somewhat "backward" (e.g., "the nations of Asia and Africa") with 20th century jets while saying Americans are travelling toward equality with 19th century transportation methods would upset many Americans. Further, the "horse-and-buggy" suggest that the ideas and mentality of white Americans are out-of-date, backwards. In other words, the vehicles of the metaphors (in this case, quite literally the vehicles—_jets and buggies_) give us a vivid picture of the tenor of these images—the pace of improvement in the drive to equality.
+    *   Example: When he says that other countries are proceeding with "jet-like speed" while America is going at a "horse-and-buggy pace" (par. 14), King's attempts to puncture white Americans' pride in our technological superiority. Associating countries that many Americans would have thought of as somewhat "backward" (e.g., "the nations of Asia and Africa") with 20{{< sup "th" >}} century jets while saying Americans are travelling toward equality with 19{{< sup "th" >}} century transportation methods would upset many Americans. Further, the "horse-and-buggy" suggest that the ideas and mentality of white Americans are out-of-date, backwards. In other words, the vehicles of the metaphors (in this case, quite literally the vehicles—_jets and buggies_) give us a vivid picture of the tenor of these images—the pace of improvement in the drive to equality.
     *   When you quote something, comment on it & explicate it (as in the "jet-like speed" example in 10a above). Do not simply repeat what the quotation says in different words.
 *   Make your essays interesting by pointing out things that are not obvious to a one-time reader of the artifact (e.g., King's "Letter"). Remember, you are trying to teach your readers something new about rhetoric and, incidentally, also about the specific artifact.
 *   Do not start the paper the night before.

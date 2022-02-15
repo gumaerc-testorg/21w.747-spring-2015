@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 912ec8f5-8dbf-31bf-6b1b-b754b51bc1de
 title: Persuasive Speech
 uid: f823bee4-1371-5bbc-a8ff-ecd3885bc041

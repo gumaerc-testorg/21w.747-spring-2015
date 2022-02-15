@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 912ec8f5-8dbf-31bf-6b1b-b754b51bc1de
 title: Framing
 uid: 5a1e6b2b-d6c6-6637-8d1e-694edc1809e7

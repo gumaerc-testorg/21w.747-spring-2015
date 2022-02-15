@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c7b5927d-3ae0-fe97-db2d-3359f0509be7
 ---
@@ -288,9 +290,9 @@ Course Policies
 I don't distinguish between excused and unexcused absences
 
 *   There are 3 free absences—save them for illness, job interviews, religious holidays, etc.
-*   The 4th absence reduces your course grade by 1 whole grade (an A becomes a B).
-*   The 5th cut reduces it another whole grade (so original A becomes C).
-*   The 6th absence reduces your course grade 2 additional whole grades (so an A becomes an F)—automatic failure for course regardless of reason—no exceptions.
+*   The 4{{< sup "th" >}} absence reduces your course grade by 1 whole grade (an A becomes a B).
+*   The 5{{< sup "th" >}} cut reduces it another whole grade (so original A becomes C).
+*   The 6{{< sup "th" >}} absence reduces your course grade 2 additional whole grades (so an A becomes an F)—automatic failure for course regardless of reason—no exceptions.
 *   Don't take this course if you will have to regularly arrive late to class or leave early.
 
 ### Consultation at the [Writing & Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) (WCC)

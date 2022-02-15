@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 912ec8f5-8dbf-31bf-6b1b-b754b51bc1de
 title: Essays
 uid: ef506692-ad58-88f3-1f22-09eccaf97caf
@@ -22,7 +26,7 @@ Consultation at the [Writing & Communication Center](http://cmsw.mit.edu/writing
 *   You must consult with the WCC's professionals about your first essay no later than the day before the Mandatory Revision of Essay 1 is due. There is an automatic 1 whole grade penalty off your course grade if you do not (no excuses or exceptions).
 *   You may consult at any stage—the "developing your ideas" stage, before your draft is done in workshop, before submitting your Mandatory Revision.
 
-Each essay must have 2 versions and might have a 3rd if you wish.
+Each essay must have 2 versions and might have a 3{{< sup "rd" >}} if you wish.
 
 *   Reader-Ready Revision (RRR) for Workshop: I do not comment in writing on this version—former students have requested this approach in order to elicit more in-depth and thoughtful workshop comments.
 *   Mandatory Revision: This draft incorporates any suggestions from your workshop group and from the Writing Center that you find useful. I grade the Mandatory Revision of each of your essays.
