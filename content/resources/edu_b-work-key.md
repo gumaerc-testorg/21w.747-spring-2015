@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: f97971ba-34d6-6075-4089-d485b31b5172
 resourcetype: Image
 title: workshop key
 uid: 520bd847-8635-3f64-ae74-e2e650d8d823

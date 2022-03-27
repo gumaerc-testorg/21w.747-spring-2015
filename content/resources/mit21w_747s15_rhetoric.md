@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 16cadfbc-58ff-0e59-c208-3527b7fd6e97
 resourcetype: Document
 title: Rhetoric Tool Chest
 uid: 2c3905c4-20a7-95b3-9c1f-3a4b09287e6e

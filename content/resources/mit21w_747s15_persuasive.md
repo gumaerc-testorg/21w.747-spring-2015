@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Persuasive Speech
 parent_type: CourseSection
+parent_uid: f823bee4-1371-5bbc-a8ff-ecd3885bc041
 resourcetype: Document
 title: MIT21W_747S15_Persuasive.pdf
 uid: 1e82bf3c-544d-8b16-1217-177c735a101d

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Framing
 parent_type: CourseSection
+parent_uid: 5a1e6b2b-d6c6-6637-8d1e-694edc1809e7
 resourcetype: Document
 title: MIT21W_747S15_Outline.pdf
 uid: be9424e0-26e9-e05d-4b54-620f6f422c44

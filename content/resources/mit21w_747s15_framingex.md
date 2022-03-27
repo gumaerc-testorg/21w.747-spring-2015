@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 16cadfbc-58ff-0e59-c208-3527b7fd6e97
 resourcetype: Document
 title: MIT21W_747S15_framingex.pdf
 uid: 76674b77-f08c-2e24-d783-10c82f708093

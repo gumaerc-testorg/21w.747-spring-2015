@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Essays
 parent_type: CourseSection
+parent_uid: ef506692-ad58-88f3-1f22-09eccaf97caf
 resourcetype: Document
 title: MIT21W_747S15_Essay_1.pdf
 uid: 50e12b15-c48d-eb26-f606-6f646dbbb587
