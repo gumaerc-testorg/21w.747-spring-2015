@@ -12,11 +12,11 @@ uid: ef506692-ad58-88f3-1f22-09eccaf97caf
 
 These are the three essays there were assigned in the course:
 
-[Essay 1: Rhetorical Analysis of a Speech (PDF)]({{< baseurl >}}/resources/mit21w_747s15_essay_1)
+{{< resource_link 50e12b15-c48d-eb26-f606-6f646dbbb587 "Essay 1: Rhetorical Analysis of a Speech (PDF)" >}}
 
-[Essay 2: Rhetorical Genre Analysis (PDF)]({{< baseurl >}}/resources/mit21w_747s15_essay_2)
+{{< resource_link f19a7b72-02bd-81d5-c613-4ffb72109077 "Essay 2: Rhetorical Genre Analysis (PDF)" >}}
 
-[Essay 3: Rhetorical Analysis of One Text (PDF)]({{< baseurl >}}/resources/mit21w_747s15_essay_3)
+{{< resource_link c203b57b-b570-3d69-d83b-4e7903460b2a "Essay 3: Rhetorical Analysis of One Text (PDF)" >}}
 
 In rhetoric, _how you write_ is as important as _what you write_. An essay with numerous writing glitches suffers in terms of being a rhetorical act of communication (your ethos is damaged) and in terms of grade.
 

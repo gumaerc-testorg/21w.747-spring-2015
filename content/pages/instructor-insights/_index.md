@@ -3,6 +3,7 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
+parent_uid: null
 title: Instructor Insights
 uid: f97971ba-34d6-6075-4089-d485b31b5172
 ---
@@ -48,8 +49,8 @@ Instructor Insights
 
 _In the following pages, Professor Steven Strang describes various aspects of how he teaches 21W.747 Rhetoric_.
 
-*   [Workshop Approaches]({{< baseurl >}}/pages/instructor-insights/workshop-approaches)
-*   [Course Iteration]({{< baseurl >}}/pages/instructor-insights/course-iteration)
+*   {{< resource_link f97ff77f-a72f-8b52-c68e-ac590ce34b94 "Workshop Approaches" >}}
+*   {{< resource_link 96bfa707-1261-c887-41d1-51c19b50bbe2 "Course Iteration" >}}
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
@@ -92,15 +93,15 @@ In class
 --------
 
 *   Met 2 times per week for 1.5 hours per session; 25 sessions total.
-*   During class sessions, students [framed artifacts]({{< baseurl >}}/pages/assignments/framing). During these exercises, they analyzed artifacts' key components, illustrated rhetorical moves colleagues could use in their own writing, and made connections between texts.
-*   Students each gave one [persuasive speech]({{< baseurl >}}/pages/assignments/persuasive-speech).
-*   Several class sessions were devoted to [workshop sessions]({{< baseurl >}}/pages/instructor-insights/workshop-approaches).
+*   During class sessions, students {{< resource_link 5a1e6b2b-d6c6-6637-8d1e-694edc1809e7 "framed artifacts" >}}. During these exercises, they analyzed artifacts' key components, illustrated rhetorical moves colleagues could use in their own writing, and made connections between texts.
+*   Students each gave one {{< resource_link f823bee4-1371-5bbc-a8ff-ecd3885bc041 "persuasive speech" >}}.
+*   Several class sessions were devoted to {{< resource_link f97ff77f-a72f-8b52-c68e-ac590ce34b94 "workshop sessions" >}}.
 
 Out of Class
 ------------
 
 *   Essay writing
 *   Consultation with the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/)
-*   [Readings]({{< baseurl >}}/pages/calendar-and-readings)
+*   {{< resource_link 16cadfbc-58ff-0e59-c208-3527b7fd6e97 "Readings" >}}
 *   Preparation for framing exercise
 *   Preparation for persuasive speech

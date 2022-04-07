@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Calendar and Readings
 uid: 16cadfbc-58ff-0e59-c208-3527b7fd6e97
 ---
@@ -44,7 +45,7 @@ Introduction to the course. Discussion of the syllabus.
 
 Rhetoric and Argument
 
-[Rhetoric Tool Chest (PDF)]({{< baseurl >}}/resources/mit21w_747s15_rhetoric)
+{{< resource_link 2c3905c4-20a7-95b3-9c1f-3a4b09287e6e "Rhetoric Tool Chest (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -64,7 +65,7 @@ Framing
 
 Roberts–Miller, Trish. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Understanding Misunderstandings: How to do a Rhetorical Analysis." (PDF)](http://www.drw.utexas.edu/roberts-miller/sites/www.drw.utexas.edu.roberts-miller/files/understanding.pdf) 2008.
 
-[Framing Example: Roberts–Miller, Trish. "Understanding Misunderstandings." (PDF)]({{< baseurl >}}/resources/mit21w_747s15_framingex)
+{{< resource_link 76674b77-f08c-2e24-d783-10c82f708093 "Framing Example: Roberts–Miller, Trish. \"Understanding Misunderstandings.\" (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -226,7 +227,7 @@ RRR version of Essay 2 due.
 {{< tdopen >}}
 
 
-[Ethics Tool Chest (PDF)]({{< baseurl >}}/resources/mit21w_747s15_rr02)
+{{< resource_link 504af432-7f31-d770-7962-8bf2ec273e69 "Ethics Tool Chest (PDF)" >}}
 
 
 {{< tdclose >}}

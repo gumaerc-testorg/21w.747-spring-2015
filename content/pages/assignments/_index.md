@@ -3,15 +3,16 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 912ec8f5-8dbf-31bf-6b1b-b754b51bc1de
 ---
 
 There are three types of assignments in this course:
 
-*   [Essays]({{< baseurl >}}/pages/assignments/essays)
-*   [Framing]({{< baseurl >}}/pages/assignments/framing)
-*   [Persuasive Speech]({{< baseurl >}}/pages/assignments/persuasive-speech)
+*   {{< resource_link ef506692-ad58-88f3-1f22-09eccaf97caf "Essays" >}}
+*   {{< resource_link 5a1e6b2b-d6c6-6637-8d1e-694edc1809e7 "Framing" >}}
+*   {{< resource_link f823bee4-1371-5bbc-a8ff-ecd3885bc041 "Persuasive Speech" >}}
 
 Hints for Writing Effective Essays
 ----------------------------------
