@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the framing assignment, an outline to complete,
+  and an example framing assignment from this course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -18,11 +20,11 @@ Framing an artifact has four purposes:
     *   How does this text shed light on previous texts? How does it give new insights into previous texts? How does it disagree or agree with previous texts?
 4.  Spark discussion with insightful questions & provocative quotations from the text
 
-*   {{< resource_link 54de996b-70d1-5038-44e6-6e3218807af9 "Framing Template (PDF)" >}}
-*   {{< resource_link be9424e0-26e9-e05d-4b54-620f6f422c44 "Outline for Framing (PDF)" >}}
-*   {{< resource_link b0f27acd-c2cc-fcba-d83d-a8bf383a4738 "Outline for Framing (Non-Pro) (PDF)" >}}
-*   {{< resource_link fa646cd2-9457-5cb6-d0da-e0d82b190cb8 "Explanation of Outline for Framing (Non-Pro Articles) (PDF)" >}}
-*   {{< resource_link 410d7832-d098-6eb5-75f5-f914e562ac28 "Example Framing Assignment: (PDF)" >}}
+*   {{% resource_link 54de996b-70d1-5038-44e6-6e3218807af9 "Framing Template (PDF)" %}}
+*   {{% resource_link be9424e0-26e9-e05d-4b54-620f6f422c44 "Outline for Framing (PDF)" %}}
+*   {{% resource_link b0f27acd-c2cc-fcba-d83d-a8bf383a4738 "Outline for Framing (Non-Pro) (PDF)" %}}
+*   {{% resource_link fa646cd2-9457-5cb6-d0da-e0d82b190cb8 "Explanation of Outline for Framing (Non-Pro Articles) (PDF)" %}}
+*   {{% resource_link 410d7832-d098-6eb5-75f5-f914e562ac28 "Example Framing Assignment: (PDF)" %}}
 
 These artifacts were each assigned to one or two students to frame according to the guidelines above.
 
@@ -44,7 +46,7 @@ ARTIFACTS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Roberts–Miller, Trish. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Understanding Misunderstandings: How to do a Rhetorical Analysis." (PDF)](http://www.drw.utexas.edu/roberts-miller/sites/www.drw.utexas.edu.roberts-miller/files/understanding.pdf) 2008.
+Roberts–Miller, Trish. ["Understanding Misunderstandings: How to do a Rhetorical Analysis." (PDF)](http://www.drw.utexas.edu/roberts-miller/sites/www.drw.utexas.edu.roberts-miller/files/understanding.pdf) 2008.
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the persuasive speech oral and written assignment
+  for this course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: Persuasive Speech
 uid: f823bee4-1371-5bbc-a8ff-ecd3885bc041
 ---
 
-{{< resource_link 1e82bf3c-544d-8b16-1217-177c735a101d "Persuasive Speech Assignment (PDF)" >}}
+{{% resource_link 1e82bf3c-544d-8b16-1217-177c735a101d "Persuasive Speech Assignment (PDF)" %}}
 
 **Oral Presentation**: 4–5 minutes  
 **Oral Delivery**: Extemporaneous or Read  
