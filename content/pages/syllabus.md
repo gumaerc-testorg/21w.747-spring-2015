@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section lists the course meeting times, a description of the course,
+  the objectives for the course, motivation for the course, the texts used in the
+  course, and the grading scheme for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c7b5927d-3ae0-fe97-db2d-3359f0509be7
 ---
@@ -37,7 +42,7 @@ _"A person who persuades is not, or surely may not be, the only person to be bla
 Readings
 --------
 
-A detailed reading list is provided in the [Readings]({{< baseurl >}}/pages/calendar-and-readings) Section. Several pieces were excerpted from these textbooks:
+A detailed reading list is provided in the {{% resource_link 16cadfbc-58ff-0e59-c208-3527b7fd6e97 "Readings" %}} Section. Several pieces were excerpted from these textbooks:
 
 Andrews, James R., Michael C. Leff, and Robert Terrill. _Reading Rhetorical Texts: An Introduction to Criticism_. Houghton Mifflin College Division, 1998. ISBN: 9780395731567.
 
@@ -288,9 +293,9 @@ Course Policies
 I don't distinguish between excused and unexcused absences
 
 *   There are 3 free absences—save them for illness, job interviews, religious holidays, etc.
-*   The 4th absence reduces your course grade by 1 whole grade (an A becomes a B).
-*   The 5th cut reduces it another whole grade (so original A becomes C).
-*   The 6th absence reduces your course grade 2 additional whole grades (so an A becomes an F)—automatic failure for course regardless of reason—no exceptions.
+*   The 4{{< sup "th" >}} absence reduces your course grade by 1 whole grade (an A becomes a B).
+*   The 5{{< sup "th" >}} cut reduces it another whole grade (so original A becomes C).
+*   The 6{{< sup "th" >}} absence reduces your course grade 2 additional whole grades (so an A becomes an F)—automatic failure for course regardless of reason—no exceptions.
 *   Don't take this course if you will have to regularly arrive late to class or leave early.
 
 ### Consultation at the [Writing & Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) (WCC)

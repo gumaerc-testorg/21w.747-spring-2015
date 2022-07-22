@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains the three essays assignments from this course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 912ec8f5-8dbf-31bf-6b1b-b754b51bc1de
 title: Essays
 uid: ef506692-ad58-88f3-1f22-09eccaf97caf
@@ -8,11 +13,11 @@ uid: ef506692-ad58-88f3-1f22-09eccaf97caf
 
 These are the three essays there were assigned in the course:
 
-[Essay 1: Rhetorical Analysis of a Speech (PDF)]({{< baseurl >}}/resources/mit21w_747s15_essay_1)
+{{% resource_link 50e12b15-c48d-eb26-f606-6f646dbbb587 "Essay 1: Rhetorical Analysis of a Speech (PDF)" %}}
 
-[Essay 2: Rhetorical Genre Analysis (PDF)]({{< baseurl >}}/resources/mit21w_747s15_essay_2)
+{{% resource_link f19a7b72-02bd-81d5-c613-4ffb72109077 "Essay 2: Rhetorical Genre Analysis (PDF)" %}}
 
-[Essay 3: Rhetorical Analysis of One Text (PDF)]({{< baseurl >}}/resources/mit21w_747s15_essay_3)
+{{% resource_link c203b57b-b570-3d69-d83b-4e7903460b2a "Essay 3: Rhetorical Analysis of One Text (PDF)" %}}
 
 In rhetoric, _how you write_ is as important as _what you write_. An essay with numerous writing glitches suffers in terms of being a rhetorical act of communication (your ethos is damaged) and in terms of grade.
 
@@ -22,7 +27,7 @@ Consultation at the [Writing & Communication Center](http://cmsw.mit.edu/writing
 *   You must consult with the WCC's professionals about your first essay no later than the day before the Mandatory Revision of Essay 1 is due. There is an automatic 1 whole grade penalty off your course grade if you do not (no excuses or exceptions).
 *   You may consult at any stage—the "developing your ideas" stage, before your draft is done in workshop, before submitting your Mandatory Revision.
 
-Each essay must have 2 versions and might have a 3rd if you wish.
+Each essay must have 2 versions and might have a 3{{< sup "rd" >}} if you wish.
 
 *   Reader-Ready Revision (RRR) for Workshop: I do not comment in writing on this version—former students have requested this approach in order to elicit more in-depth and thoughtful workshop comments.
 *   Mandatory Revision: This draft incorporates any suggestions from your workshop group and from the Writing Center that you find useful. I grade the Mandatory Revision of each of your essays.

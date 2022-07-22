@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section lists the topics covered in the course,  the readings that
+  were assigned, and the key dates.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Calendar and Readings
 uid: 16cadfbc-58ff-0e59-c208-3527b7fd6e97
 ---
@@ -41,7 +46,7 @@ Introduction to the course. Discussion of the syllabus.
 
 Rhetoric and Argument
 
-[Rhetoric Tool Chest (PDF)]({{< baseurl >}}/resources/mit21w_747s15_rhetoric)
+{{% resource_link 2c3905c4-20a7-95b3-9c1f-3a4b09287e6e "Rhetoric Tool Chest (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -59,9 +64,9 @@ Rhetoric and Argument
 
 Framing
 
-Roberts–Miller, Trish. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Understanding Misunderstandings: How to do a Rhetorical Analysis." (PDF)](http://www.drw.utexas.edu/roberts-miller/sites/www.drw.utexas.edu.roberts-miller/files/understanding.pdf) 2008.
+Roberts–Miller, Trish. ["Understanding Misunderstandings: How to do a Rhetorical Analysis." (PDF)](http://www.drw.utexas.edu/roberts-miller/sites/www.drw.utexas.edu.roberts-miller/files/understanding.pdf) 2008.
 
-[Framing Example: Roberts–Miller, Trish. "Understanding Misunderstandings." (PDF)]({{< baseurl >}}/resources/mit21w_747s15_framingex)
+{{% resource_link 76674b77-f08c-2e24-d783-10c82f708093 "Framing Example: Roberts–Miller, Trish. \"Understanding Misunderstandings.\" (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -189,7 +194,7 @@ Berlin, Isaiah. "[A Message to the 21st Century](http://www.nybooks.com/articles
 
 Stewart, Jon. "[Commencement Speech to William & Mary](https://www.wm.edu/news/stories/2004/jon-stewarts-84-commencement-address.php)," _News and Media_, May 20, 2004.
 
-Wallace, David Foster. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Commencement Speech to Kenyon College." (PDF)](http://web.ics.purdue.edu/~drkelly/DFWKenyonAddress2005.pdf) May 21, 2005.
+Wallace, David Foster. ["Commencement Speech to Kenyon College." (PDF)](http://web.ics.purdue.edu/~drkelly/DFWKenyonAddress2005.pdf) May 21, 2005.
 
 
 {{< tdclose >}}
@@ -223,7 +228,7 @@ RRR version of Essay 2 due.
 {{< tdopen >}}
 
 
-[Ethics Tool Chest (PDF)]({{< baseurl >}}/resources/mit21w_747s15_rr02)
+{{% resource_link 504af432-7f31-d770-7962-8bf2ec273e69 "Ethics Tool Chest (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -369,7 +374,7 @@ Allen, Woody. "My Speech to the Graduates," _The New York Times_, August 10, 197
 
 Swift, Jonathan. "[A Modest Proposal](https://www.gutenberg.org/files/1080/1080-h/1080-h.htm)." 1729.
 
-Green, Rayna. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Museum of the Plains White Person." (PDF)](https://sabinolibrary.weebly.com/uploads/1/7/9/8/17981137/museumofplainswhiteperson.pdf)
+Green, Rayna. ["The Museum of the Plains White Person." (PDF)](https://sabinolibrary.weebly.com/uploads/1/7/9/8/17981137/museumofplainswhiteperson.pdf)
 
 Twain, Mark. "Was the World Made for Man?" In _Writing Exploratory Essays_. Edited by Steven Strang. McGraw–Hill Humanities, 1995, pp. 394–7. ISBN: 9781559342629.
 
