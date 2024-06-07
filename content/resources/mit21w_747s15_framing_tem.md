@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding framing template.
 file: /courses/21w-747-rhetoric-spring-2015/54de996b70d1503844e66e3218807af9_MIT21W_747S15_Framing_Tem.pdf
+file_size: 265646
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

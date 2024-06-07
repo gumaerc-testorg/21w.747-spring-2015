@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding example framing assignment.
 file: /courses/21w-747-rhetoric-spring-2015/410d7832d0986eb575f5f914e562ac28_MIT21W_747S15_SMS.Sample.pdf
+file_size: 180011
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
