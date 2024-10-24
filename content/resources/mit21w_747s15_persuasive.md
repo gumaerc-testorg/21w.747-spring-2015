@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding persuasive speech assignment.
-file: /courses/21w-747-rhetoric-spring-2015/1e82bf3c544d8b161217177c735a101d_MIT21W_747S15_Persuasive.pdf
+file: /ol-ocw-studio-app/courses/21w-747-rhetoric-spring-2015/1e82bf3c544d8b161217177c735a101d_MIT21W_747S15_Persuasive.pdf
 file_size: 603223
 file_type: application/pdf
 learning_resource_types: []
