@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding explanation of outline
   for framing (non-pro articles).
-file: /ol-ocw-studio-app/courses/21w-747-rhetoric-spring-2015/fa646cd294575cb6d0dae0d82b190cb8_MIT21W_747S15_Explan.pdf
+file: /courses/21w-747-rhetoric-spring-2015/fa646cd294575cb6d0dae0d82b190cb8_MIT21W_747S15_Explan.pdf
 file_size: 215291
 file_type: application/pdf
 learning_resource_types: []
