@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding rhetoric tool chest.
-file: /ol-ocw-studio-app/courses/21w-747-rhetoric-spring-2015/2c3905c420a795b39c1f3a4b09287e6e_MIT21W_747S15_rhetoric.pdf
+file: /courses/21w-747-rhetoric-spring-2015/2c3905c420a795b39c1f3a4b09287e6e_MIT21W_747S15_rhetoric.pdf
 file_size: 657423
 file_type: application/pdf
 learning_resource_types:
