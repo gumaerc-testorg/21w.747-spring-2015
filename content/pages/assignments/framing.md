@@ -46,7 +46,7 @@ ARTIFACTS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Roberts–Miller, Trish. ["Understanding Misunderstandings: How to do a Rhetorical Analysis." (PDF)](http://www.drw.utexas.edu/roberts-miller/sites/www.drw.utexas.edu.roberts-miller/files/understanding.pdf) 2008.
+Roberts–Miller, Trish. {{% resource_link "5fe3aefa-f6be-471a-80bd-eea6f8658e00" "\"Understanding Misunderstandings: How to do a Rhetorical Analysis.\" (PDF)" %}} 2008.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +66,7 @@ Campbell, Karlyn Kohrs. "An Exercise in the Rhetoric of Mythical America." In _C
 {{< tdopen >}}
 
 
-Hill, Forbes. "[Miscellany The Forum](http://dx.doi.org/10.1080/00335637209383143)." _Quarterly Journal of Speech_ 58, no. 4 (1972): 451–64.
+Hill, Forbes. "{{% resource_link "144ffb92-aa90-4068-bed6-f20173080167" "Miscellany The Forum" %}}." _Quarterly Journal of Speech_ 58, no. 4 (1972): 451–64.
 
 
 {{< tdclose >}}
@@ -92,7 +92,7 @@ Campbell, and Jamison. "Inaugural Addresses." In _Presidents Creating the Presid
 {{< tdopen >}}
 
 
-Ware, B. Lee, and Wil A. Linkugel. "[They Spoke in Defense of Themselves: On the Generic Criticism of Apologia](http://dx.doi.org/10.1080/00335637309383176)." _Quarterly Journal of Speech_ 59, no. 3 (1973): 273–83.
+Ware, B. Lee, and Wil A. Linkugel. "{{% resource_link "41cfc079-28ca-471d-8595-90d62b164633" "They Spoke in Defense of Themselves: On the Generic Criticism of Apologia" %}}." _Quarterly Journal of Speech_ 59, no. 3 (1973): 273–83.
 
 
 {{< tdclose >}}
@@ -105,7 +105,7 @@ Ware, B. Lee, and Wil A. Linkugel. "[They Spoke in Defense of Themselves: On the
 {{< tdopen >}}
 
 
-Wieman, Henry Nelson, and Otis M. Walter. "[Toward an Analysis of Ethics for Rhetoric](http://dx.doi.org/10.1080/00335635709382245)." _Quarterly Journal of Speech_ 43, no. 3 (1957): 266–70.
+Wieman, Henry Nelson, and Otis M. Walter. "{{% resource_link "b51eaffd-7685-46ad-a380-a9a5dc3a3e1d" "Toward an Analysis of Ethics for Rhetoric" %}}." _Quarterly Journal of Speech_ 43, no. 3 (1957): 266–70.
 
 
 {{< tdclose >}}
@@ -162,7 +162,7 @@ Hahn, Dan F. "Myths and Metaphors." In _Political Communication: Rhetoric, Gover
 {{< tdopen >}}
 
 
-Lakoff, George, and Mark Johnson. "[Concepts We Live By](http://theliterarylink.com/metaphors.html)." In _Metaphors We Live By_. University of Chicago Press, 2003. ISBN: 9780226468013.
+Lakoff, George, and Mark Johnson. "{{% resource_link "1d31c355-4abc-425c-9f04-758a48ddea79" "Concepts We Live By" %}}." In _Metaphors We Live By_. University of Chicago Press, 2003. ISBN: 9780226468013.
 
 
 {{< tdclose >}}
@@ -175,7 +175,7 @@ Lakoff, George, and Mark Johnson. "[Concepts We Live By](http://theliterarylink.
 {{< tdopen >}}
 
 
-St. Amant, Kirk., and Timothy D. Giles. "[Review of Motives for Metaphor in Scientific and Technical Communication](http://dx.doi.org/10.1177/1050651910371304)." _Journal of Business and Technical Communication_ 24, no. 4 (2010): 540–3.
+St. Amant, Kirk., and Timothy D. Giles. "{{% resource_link "3234937f-976f-4b9d-81a1-0a77ef1b8386" "Review of Motives for Metaphor in Scientific and Technical Communication" %}}." _Journal of Business and Technical Communication_ 24, no. 4 (2010): 540–3.
 
 
 {{< tdclose >}}
@@ -188,7 +188,7 @@ St. Amant, Kirk., and Timothy D. Giles. "[Review of Motives for Metaphor in Scie
 {{< tdopen >}}
 
 
-Engels, Jeremy, and William O. Saas. "[On Acquiescence and Ends–less War: An Inquiry into the New War Rhetoric](http://dx.doi.org/10.1080/00335630.2013.775705)." _Quarterly Journal of Speech_ 99, no. 2 (2013): 225–32.
+Engels, Jeremy, and William O. Saas. "{{% resource_link "c7afe4c7-8c4f-48e1-bc3d-17449c2c1fa3" "On Acquiescence and Ends–less War: An Inquiry into the New War Rhetoric" %}}." _Quarterly Journal of Speech_ 99, no. 2 (2013): 225–32.
 
 
 {{< tdclose >}}
@@ -199,7 +199,7 @@ Engels, Jeremy, and William O. Saas. "[On Acquiescence and Ends–less War: An I
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Arts Fish, Stanley. "Introduction: 'That's Not Fair.'" In _There's No Such Thing As Free Speech: And It's a Good Thing, Too_. Oxford University Press, 1993. ISBN: 9780195080186. \[Preview with [Google Books](http://books.google.com/books?id=GtdrpVZpTfUC&pg=PA3#v=onepage)\]
+Arts Fish, Stanley. "Introduction: 'That's Not Fair.'" In _There's No Such Thing As Free Speech: And It's a Good Thing, Too_. Oxford University Press, 1993. ISBN: 9780195080186. \[Preview with {{% resource_link "4e338575-42f9-4fa5-a6d1-7bf8bad1c089" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,7 +208,7 @@ Arts Fish, Stanley. "Introduction: 'That's Not Fair.'" In _There's No Such Thing
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Schwenk, Kurt. "[Aristotle's Ghost](https://www.creativenonfiction.org/issue/19)," _Creative Nonfiction No. 19_, March 2002.
+Schwenk, Kurt. "{{% resource_link "113aeade-6251-4f5d-988f-9e1204a3af23" "Aristotle's Ghost" %}}," _Creative Nonfiction No. 19_, March 2002.
 {{< tdclose >}}
 
 {{< trclose >}}
