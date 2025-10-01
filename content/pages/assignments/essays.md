@@ -21,7 +21,7 @@ These are the three essays there were assigned in the course:
 
 In rhetoric, _how you write_ is as important as _what you write_. An essay with numerous writing glitches suffers in terms of being a rhetorical act of communication (your ethos is damaged) and in terms of grade.
 
-Consultation at the [Writing & Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) (WCC)
+Consultation at the {{% resource_link "895e1649-0e27-4649-bcb0-d5ba86d47f3d" "Writing & Communication Center" %}} (WCC)
 -----------------------------------------------------------------------------------------------------------------
 
 *   You must consult with the WCC's professionals about your first essay no later than the day before the Mandatory Revision of Essay 1 is due. There is an automatic 1 whole grade penalty off your course grade if you do not (no excuses or exceptions).
